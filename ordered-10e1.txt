@@ -1,1 +1,10 @@
-/home/ryan-hallock/Projects/dicts/ordered-10e1.txt
+a
+A
+Aachen
+Aachen's
+Aaliyah
+Aaliyah's
+aardvark
+aardvark's
+aardvarks
+Aaron
